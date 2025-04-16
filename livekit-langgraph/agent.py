@@ -13,9 +13,9 @@ from livekit.agents import (
 )
 import asyncio
 from livekit.agents.pipeline import VoicePipelineAgent
-from livekit.plugins import openai, silero
+from livekit.plugins import openai, silero, elevenlabs
 from _langgraph.graph_wrapper import LivekitGraphRunner  # our wrapper that adapts a compiled graph to LiveKit
-from _langgraph.graphs.simple_graph import get_compiled_graph
+from _langgraph.graphs.react_graph import get_compiled_graph
 from livekit import rtc
 logger = logging.getLogger("voice-agent")
 
@@ -32,6 +32,13 @@ async def entrypoint(ctx: JobContext):
     # The LiveKitGraphRunner is a wrapper that adapts a compiled graph from LangGraph to be compliant with LiveKit's LLM interface.
     compiled_graph, initial_state = await get_compiled_graph()
     graph_runner = LivekitGraphRunner(compiled_graph, initial_state)
+
+
+    eleven_tts=elevenlabs.tts.TTS(
+        model="eleven_flash_v2_5",
+        language="vi"
+        
+    )
     
     agent = VoicePipelineAgent(
         vad=silero.VAD.load(),

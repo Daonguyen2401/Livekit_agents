@@ -1,0 +1,416 @@
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room homelab3
+INFO:root:Published track TR_AMR9MwTRCpsxN7
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+WARNING:livekit:livekit::rtc_engine:446:livekit::rtc_engine - received session close: "signal client closed: \"ping timeout\"" UnknownReason Resume
+ERROR:livekit:livekit::rtc_engine:716:livekit::rtc_engine - resuming connection... attempt: 0
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&reconnect=1&sid=PA_VsMsVEgSTzS9&access_token=...
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room homelab3
+INFO:root:Published track TR_AMRv27PkcBxstk
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room narlin
+INFO:root:Published track TR_AM6KyEeTvcahWu
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room narlinnn
+INFO:root:Published track TR_AMnnF5fRHgQyXB
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room narlinnnhh
+INFO:root:Published track TR_AMGXDP9E9a39zu
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room dn
+INFO:root:Published track TR_AMAr9qSEwdZQRH
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:livekit:livekit::room:1190:livekit::room - disconnected from room with reason: ClientInitiated
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room dnnnnn
+INFO:root:Published track TR_AMhYcbVijunL3G
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 5: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 6: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 7: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 8: hdmi
+INFO:root:Device 9: pulse
+INFO:root:Device 10: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room hehehehe
+INFO:root:Published track TR_AMQaSciT6RBP5X
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room nono
+INFO:root:Published track TR_AMDdUZraW7JRgv
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room yeye
+INFO:root:Published track TR_AMjheEBj3vkwTf
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:livekit:livekit::room:1190:livekit::room - disconnected from room with reason: ClientInitiated
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-6126' coro=<AudioSource.capture_frame() running at /home/daonguyen/anaconda3/envs/smartmirror/lib/python3.12/site-packages/livekit/rtc/audio_source.py:144> wait_for=<Future finished result=None> cb=[_chain_future.<locals>._call_set_state() at /home/daonguyen/anaconda3/envs/smartmirror/lib/python3.12/asyncio/futures.py:396]>
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room jiji
+INFO:root:Published track TR_AMmCmWrg2Lay4v
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
+INFO:root:Available audio devices:
+INFO:root:Device 0: HDA NVidia: HDMI 0 (hw:0,3)
+INFO:root:Device 1: HDA NVidia: HDMI 1 (hw:0,7)
+INFO:root:Device 2: HDA NVidia: HDMI 2 (hw:0,8)
+INFO:root:Device 3: HDA NVidia: HDMI 3 (hw:0,9)
+INFO:root:Device 4: C-Media(R) Audio: USB Audio (hw:1,0)
+INFO:root:Device 5: HDA Intel PCH: HDMI 0 (hw:2,3)
+INFO:root:Device 6: HDA Intel PCH: HDMI 1 (hw:2,7)
+INFO:root:Device 7: HDA Intel PCH: HDMI 2 (hw:2,8)
+INFO:root:Device 8: HDA Intel PCH: HDMI 3 (hw:2,9)
+INFO:root:Device 9: hdmi
+INFO:root:Device 10: pulse
+INFO:root:Device 11: default
+INFO:root:Audio stream initialized and started with device: default
+INFO:root:Keyboard listener started. Press SPACE to start streaming to LiveKit.
+INFO:root:Release SPACE to stop streaming and save recording to WAV file. Press ESC to exit.
+INFO:root:Connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud
+INFO:livekit:livekit_ffi::server:134:livekit_ffi::server - initializing ffi server v0.12.10
+INFO:livekit:livekit_ffi::cabi:36:livekit_ffi::cabi - initializing ffi server v0.12.10
+INFO:livekit:livekit_api::signal_client::signal_stream:96:livekit_api::signal_client::signal_stream - connecting to wss://demo-smart-mirror-jxj34x8q.livekit.cloud/rtc?sdk=python&protocol=15&auto_subscribe=1&adaptive_stream=0&version=0.20.0&access_token=...
+INFO:root:Connected to room mama
+INFO:root:Published track TR_AMEkDcezaX4TEX
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Recording started... (streaming to LiveKit and recording)
+INFO:root:Recording stopped.
+INFO:root:Audio stream closed.
+INFO:root:Keyboard listener stopped.
+INFO:root:Event loop stopped.
+INFO:root:Program terminated.
